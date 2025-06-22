@@ -1,4 +1,3 @@
-<script>
 document.addEventListener("DOMContentLoaded", () => {
     const plzPartners = [
         {
@@ -139,4 +138,3 @@ document.addEventListener("DOMContentLoaded", () => {
         }, true);
     });
 });
-</script>
