@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", () => {
+ddocument.addEventListener("DOMContentLoaded", () => {
     const plzPartners = [
         {
             url: "https://klimarando.de/partner/mhb-green-gmbh/konfigurator",
